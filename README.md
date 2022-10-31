@@ -1,4 +1,4 @@
-# infinite-scroll-image-gallery
+# Infinite-Scroll-Image-Gallery
 
 https://user-images.githubusercontent.com/86869464/199008773-c0e8d0fc-1a8d-4ce6-8633-86b4cee7f368.mp4
 
@@ -15,6 +15,6 @@ https://user-images.githubusercontent.com/86869464/199008773-c0e8d0fc-1a8d-4ce6-
 * HTML
 * CSS
 
-# Live Demo : https://safayetalam.github.io/infinite-scroll-image-gallery/
+# Live Demo : https://safayetalam.github.io/Infinite-Scroll-Image-Gallery/
 
 > GitHub [@SafayetAlam](https://github.com/SafayetAlam) &nbsp;&middot;&nbsp;
