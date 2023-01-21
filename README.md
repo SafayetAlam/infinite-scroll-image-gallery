@@ -15,6 +15,6 @@ https://user-images.githubusercontent.com/86869464/199008773-c0e8d0fc-1a8d-4ce6-
 * HTML
 * CSS
 
-# Live Demo : https://safayetalam.github.io/Infinite-Scroll-Image-Gallery/
+# Live Demo : https://safayetdib.github.io/Infinite-Scroll-Image-Gallery/
 
-> GitHub [@SafayetAlam](https://github.com/SafayetAlam) &nbsp;&middot;&nbsp;
+> GitHub [@safayetdib](https://github.com/safayetdib) &nbsp;&middot;&nbsp;
